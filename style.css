@@ -1,0 +1,13 @@
+.top_line{
+    background-color: aliceblue;
+}
+.search_bar{
+    background-color: aliceblue;
+}
+.search_input:focus{
+    outline: none;
+}
+
+.btn_top{
+    background-color: aliceblue;
+}
